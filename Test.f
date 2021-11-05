@@ -1,4 +1,4 @@
-      module class_Triangle
+     module class_Triangle
         implicit none
         private
         public :: Triangle, triangle_area, triangle_print
